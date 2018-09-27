@@ -6,3 +6,6 @@ This is a jupyter notebook implementation of the excercises in Ch. 4 from _Machi
 To setup the local environment for implementation run the following commands.
 
 `bash bin/environmental_setup`
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Soypete/go-ml-linear-regression/master)
